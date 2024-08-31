@@ -1,7 +1,4 @@
 nyi branch dev
 aur changes
-<<<<<<< HEAD
 aur changes
 aur changes
-=======
->>>>>>> parent of 91aa296 (This is gadbad code)
